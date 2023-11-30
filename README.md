@@ -28,7 +28,7 @@ pip install -r requirements.txt
 cd ..
 ```
 
-# How does to use
+# How to use
 The script takes a CSV file with a list of download link for individual GeoTIFF tiles. These tiles 
 are then joinde into one big tile namen "chonk.tif". This "chonk.tif" is then converted into a printable 
 STL file. If you only want to print a single GeoTIFF tile or have already a joined GeoTIFF file, you 
