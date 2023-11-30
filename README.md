@@ -1,3 +1,11 @@
+# What is it?
+This is a script I made to download a list of GeoTIFF files, join them to one big tile and convert it
+to be suitable for 3D printing. I do not offer any kind of support for the use and I do not provide any
+guarantees that the script works.
+
+It is tested with Ubuntu 22.04 and data that can be found on https://www.swisstopo.admin.ch/de/geodata/height/alti3d.html.
+
+
 # How to install
 ```
 mkdir gdal-script
